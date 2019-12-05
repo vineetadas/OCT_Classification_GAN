@@ -14,7 +14,7 @@ For training purposes, the data should be divided into the train and validation 
 The remaining trained data should be placed in: data/unlabeled
 
 # Training 
-The model can be trained to reproduced with command:
+The model can be trained with the command:
 python train.py
 
 # Testing
