@@ -25,6 +25,6 @@ python testModel.py
 # Citation
 If you use this code for research, please cite
 
-V. Das, S. Dandapat and P. K. Bora, "A Data-Efficient Approach for Automated Classification of OCT Images using Generative Adversarial Network," in IEEE Sensors Letters.
-doi: 10.1109/LSENS.2019.2963712
+V. Das, S. Dandapat and P. K. Bora, "A Data-Efficient Approach for Automated Classification of OCT Images using Generative Adversarial Network," in IEEE Sensors Letters. <br>
+doi: 10.1109/LSENS.2019.2963712  <br>
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8949716&isnumber=7862766
