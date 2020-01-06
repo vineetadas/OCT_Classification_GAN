@@ -25,15 +25,6 @@ python testModel.py
 # Citation
 If you use this code for research, please cite
 
-@ARTICLE{8949716,
-author={V. {Das} and S. {Dandapat} and P. K. {Bora}},
-journal={IEEE Sensors Letters},
-title={A Data-Efficient Approach for Automated Classification of OCT Images using Generative Adversarial Network},
-year={2020},
-volume={},
-number={},
-pages={1-1},
-keywords={Sensor signals processing;classification;optical coherence tomography;generative adversarial network;semi-supervised learning},
-doi={10.1109/LSENS.2019.2963712},
-ISSN={2475-1472},
-month={},}
+V. Das, S. Dandapat and P. K. Bora, "A Data-Efficient Approach for Automated Classification of OCT Images using Generative Adversarial Network," in IEEE Sensors Letters.
+doi: 10.1109/LSENS.2019.2963712
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8949716&isnumber=7862766
