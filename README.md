@@ -21,3 +21,19 @@ python train.py
 To reproduce the results of the paper, we have povided the learned model along with the validation set.
 Use the following command to test the model:
 python testModel.py
+
+# Citation
+If you use this code for research, please cite
+
+@ARTICLE{8949716,
+author={V. {Das} and S. {Dandapat} and P. K. {Bora}},
+journal={IEEE Sensors Letters},
+title={A Data-Efficient Approach for Automated Classification of OCT Images using Generative Adversarial Network},
+year={2020},
+volume={},
+number={},
+pages={1-1},
+keywords={Sensor signals processing;classification;optical coherence tomography;generative adversarial network;semi-supervised learning},
+doi={10.1109/LSENS.2019.2963712},
+ISSN={2475-1472},
+month={},}
